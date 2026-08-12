@@ -3,20 +3,20 @@ HOW TO USE THIS TEMPLATE
 1. Create a repo named EXACTLY your GitHub username (e.g. Harry197-beep/Harry197-beep)
 2. Public repo, check "Add a README file"
 3. Replace this file's content with this template
-4. Find/replace every YOUR_USERNAME, YOUR_LINKEDIN, etc. below with your real links
+4. Find/replace every Harry197-beep, YOUR_LINKEDIN, etc. below with your real links
 -->
 
 <div align="center">
 
 <!-- ===== BANNER (your own image) ===== -->
 <!-- Upload banner.png to an "assets" folder in this repo, then this path will work -->
-<img src="assets/banner.png" alt="AI Engineer & Fullstack Engineer" width="100%" />
+<img src="asset/banner.png" alt="AI Engineer & Fullstack Engineer" width="100%" />
 
 <!-- ===== BADGES ROW (shields.io) ===== -->
 [![Agentic Innovations](https://img.shields.io/badge/Agentic%20Innovations-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agentic-innovation.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a5acd?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-phi-sepia.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agentic.innovations)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-jayadhiningrat-b9543a40b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v4hry1?igsh=MWx4YTltN2hiZm51bg==)
 
 </div>
 
@@ -53,9 +53,9 @@ Outside of code, you'll find me building multi-agent systems, breaking things on
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME below with your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="40%" />
+<!-- Replace Harry197-beep below with your actual GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=Harry197-beep&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry197-beep&layout=compact&theme=radical&hide_border=true" width="40%" />
 
 </div>
 
@@ -63,7 +63,7 @@ Outside of code, you'll find me building multi-agent systems, breaking things on
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harry197-beep&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
